@@ -46,4 +46,4 @@ Azure Lakehouse using ADF, Databricks, and Delta Live Tables with metadata-drive
   Email: nikhilarsagt@gmail.com
 
 - **😄 Pronouns: She/Her/Hers**
-- **⚡ Fun fact: Dancing through life**
+- **Fun interests: Badminton, dance**
