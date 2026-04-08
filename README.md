@@ -38,10 +38,12 @@ Azure Lakehouse using ADF, Databricks, and Delta Live Tables with metadata-drive
 - Data modeling and warehouse design (Star & Snowflake schemas)
 - ML model deployment and monitoring (MLOps basics)
 - Improving CI/CD workflows for data engineering projects
--**Open to referrals for Data Engineer/ Data Analyst roles**
--**💬 Ask me about ETL Workflows, Data Migration, Visualizing insights**
--**📫 How to reach me: **
+
+- **Open to referrals for Data Engineer/ Data Analyst roles**
+- **💬 Ask me about ETL Workflows, Data Migration, Visualizing insights**
+- **📫 How to reach me: **
   LinkedIn: [linkedin.com/in/nikhilarsantha](https://linkedin.com/in/nikhilarsantha)
   Email: nikhilarsagt@gmail.com
--**😄 Pronouns: She/Her/Hers**
--**  ⚡ Fun fact: Dancing through life**
+
+- **😄 Pronouns: She/Her/Hers**
+- **  ⚡ Fun fact: Dancing through life**
