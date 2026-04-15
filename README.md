@@ -8,14 +8,14 @@ I build scalable data pipelines, analytics systems, and cloud-based data solutio
 
 ## About Me
 - Master's in Information Technology at Arizona State University
-- 4+ years of experience in Data Engineering and ETL Development
+- 6 years of experience in Data Engineering and ETL Development
 - Interested in Data Engineering, Analytics, Machine Learning, and Cloud Platforms
 
 ---
 
 ## Tech Stack
 **Languages:** Python, SQL  
-**Cloud & Data:** AWS, Azure, Databricks, Spark, Hadoop  
+**Cloud & Data:** AWS, GCP, Azure, Databricks, Spark, Hadoop  
 **Visualization:** Tableau, Power BI, Excel  
 **Other:** ETL Pipelines, Data Modeling, CI/CD, Data Validation
 
